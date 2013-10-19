@@ -396,5 +396,5 @@
 
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" revision="cm-10.1" />
 
-  <project path="kernel/motorola/msm8960-common" name=" UFOnet/android_kernel_motorola_msm8960-common" revision="cm-10.1" />
+  <project path="kernel/motorola/msm8960-common" name="UFOnet/android_kernel_motorola_msm8960-common" revision="cm-10.1" />
 </manifest>
